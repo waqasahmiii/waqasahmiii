@@ -73,14 +73,6 @@ I'm an ADP Computer Science student at Superior University, teaching myself web 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasahmiii&show_icons=true&theme=radical" alt="Waqas Ahmad's GitHub Stats" height="165px" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
