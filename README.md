@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:e34c26&height=160&section=header&text=Waqas%20Ahmad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20Web%20Development,%20One%20Step%20at%20a%20Time&descAlignY=58&descSize=16&descColor=f2c9b8" alt="Header banner" width="100%"/>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waqasahmiii/waqasahmiii/output/dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waqasahmiii/waqasahmiii/output/dist/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/waqasahmiii/waqasahmiii/output/dist/snake.svg">
+  </picture>
+</p>
 
 ```js
 const developer = {
